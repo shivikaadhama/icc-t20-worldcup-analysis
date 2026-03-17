@@ -30,6 +30,23 @@ The project explores several key aspects of the tournament:
 4. Venues hosting the most matches
 5. Distribution of matches by tournament stage
 
+## 📊 Visualizations
+
+### Matches Per Year
+![Matches Per Year](./images/matches_per_year.png)
+
+### Top Teams (Top 5)
+![Top Teams](./images/top_teams.png)
+
+### Top Players
+![Top Players](./images/top_players.png)
+
+### Top Venues
+![Top Venues](./images/top_venues.png)
+
+### Match Stages
+![Match Stages](./images/match_stages.png)
+
 ## Key Insights
 - The number of matches has increased in later tournaments.
 - Some teams consistently dominate the competition.
